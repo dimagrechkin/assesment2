@@ -1,5 +1,11 @@
 # Take‑Home Assessment
 
+Short video, recording my work:
+
+
+https://github.com/user-attachments/assets/df0b1565-b066-4bfe-a5ca-c7e335bcaba8
+
+
 Welcome, candidate! This project contains **intentional issues** that mimic real‑world scenarios.
 Your task is to refactor, optimize, and fix these problems.
 
