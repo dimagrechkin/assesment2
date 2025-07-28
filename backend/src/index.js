@@ -12,7 +12,7 @@ const app = express();
 const PORT = parseInt(process.env.PORT, 10) || 4001;
 
 // Middleware
-app.use(cors({ origin: `http://localhost:${PORT}` }));
+app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
 app.use(express.json());
 app.use(morgan('dev'));
 
